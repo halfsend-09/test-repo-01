@@ -24,13 +24,6 @@ agents:
 allowed_remote_resources:
     - https://raw.githubusercontent.com/fullsend-ai/fullsend/
     - https://raw.githubusercontent.com/fullsend-ai/agents/
-status_notifications:
-    comment:
-        start: enabled
-        completion: enabled
-    reaction:
-        start: enabled
-        completion: enabled
 mint_url: https://bt-42aff264-bt-mint.fullsend-ai.workers.dev
 inference:
     project: it-gcp-konflux-e2e-fullsend
